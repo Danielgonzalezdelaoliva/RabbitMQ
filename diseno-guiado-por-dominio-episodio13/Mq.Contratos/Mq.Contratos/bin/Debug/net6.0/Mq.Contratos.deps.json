@@ -1,0 +1,127 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mq.Contratos/1.0.0": {
+        "dependencies": {
+          "Ddd.KernelCompartido": "1.0.0"
+        },
+        "runtime": {
+          "Mq.Contratos.dll": {}
+        }
+      },
+      "Ardalis.GuardClauses/4.0.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2021.2.0"
+        },
+        "runtime": {
+          "lib/net6.0/Ardalis.GuardClauses.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Ardalis.Specification/6.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.Specification.dll": {
+            "assemblyVersion": "6.0.1.0",
+            "fileVersion": "6.0.1.0"
+          }
+        }
+      },
+      "Ddd.KernelCompartido/1.0.0": {
+        "dependencies": {
+          "Ardalis.GuardClauses": "4.0.0",
+          "Ardalis.Specification": "6.0.1",
+          "MediatR": "10.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/KernelCompartido.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "JetBrains.Annotations/2021.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2021.2.0.0",
+            "fileVersion": "2021.2.0.0"
+          }
+        }
+      },
+      "MediatR/10.0.1": {
+        "dependencies": {
+          "MediatR.Contracts": "1.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.0"
+          }
+        }
+      },
+      "MediatR.Contracts/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mq.Contratos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ardalis.GuardClauses/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ejYmLzXNEVPlWTQUxyGAWt2uvBqVOPaVkBPgMn7FR9y5ekG5NyalSPxop7rHq1ohAyDGiCS3FUYhK0zSm/du0A==",
+      "path": "ardalis.guardclauses/4.0.0",
+      "hashPath": "ardalis.guardclauses.4.0.0.nupkg.sha512"
+    },
+    "Ardalis.Specification/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eLtJq5eI1wXDxPZQY3DW4lKFYgGuBobe9Z60L0uYjEnKQ3t2ACVvnD+qXaL4wfJ9r8aAAv6TAj640RwPZK5BEw==",
+      "path": "ardalis.specification/6.0.1",
+      "hashPath": "ardalis.specification.6.0.1.nupkg.sha512"
+    },
+    "Ddd.KernelCompartido/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X0kOW5u8WL3y+uMiB+M6lKuUOWQAchaVjuTGOesz5DvroTFPkEv9XCN5BCem6EyKeC9RDr3x1wp9VpUmttlUtw==",
+      "path": "ddd.kernelcompartido/1.0.0",
+      "hashPath": "ddd.kernelcompartido.1.0.0.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2021.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kKSyoVfndMriKHLfYGmr0uzQuI4jcc3TKGyww7buJFCYeHb/X0kodYBPL7n9454q7v6ASiRmDgpPGaDGerg/Hg==",
+      "path": "jetbrains.annotations/2021.2.0",
+      "hashPath": "jetbrains.annotations.2021.2.0.nupkg.sha512"
+    },
+    "MediatR/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+      "path": "mediatr/10.0.1",
+      "hashPath": "mediatr.10.0.1.nupkg.sha512"
+    },
+    "MediatR.Contracts/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
+      "path": "mediatr.contracts/1.0.1",
+      "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
+    }
+  }
+}

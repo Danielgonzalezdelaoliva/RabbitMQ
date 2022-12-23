@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{11FE5AD3-E9CD-48B9-ADC0-C124AEE983D2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mq.ProgramaDePrueba/Program.cs">
+    <Files>
+      <File FileName="Mq.ProgramaDePrueba/Program.cs" Line="17" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mq" expanded="True">
+            <Node name="Mq.ProgramaDePrueba" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mq.ProgramaDePrueba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Mq.Recepcion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

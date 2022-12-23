@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mq.Contratos/Eventos/EventoDeIntegracionCitaCreada.cs">
+    <Files>
+      <File FileName="Mq.Contratos/Eventos/EventoDeIntegracionCitaConfirmada.cs" Line="1" Column="1" />
+      <File FileName="Mq.Contratos/Eventos/EventoDeIntegracionCitaCreada.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mq.Contratos" expanded="True">
+            <Node name="Mq.Contratos" expanded="True">
+              <Node name="Eventos" expanded="True">
+                <Node name="EventoDeIntegracionCitaCreada.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

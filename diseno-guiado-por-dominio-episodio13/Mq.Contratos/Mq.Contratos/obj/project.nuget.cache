@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lml9JZ0YL1t8IkscJ5w/k2NcXjqBT3CiPSA1kLR2z76TpyFTDP3aQWKSPK8BCbwr2FkRXbiN8SW86sTycnxcSg==",
+  "success": true,
+  "projectFilePath": "/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/Mq.Contratos.csproj",
+  "expectedPackageFiles": [
+    "/Users/master/.nuget/packages/ardalis.guardclauses/4.0.0/ardalis.guardclauses.4.0.0.nupkg.sha512",
+    "/Users/master/.nuget/packages/ardalis.specification/6.0.1/ardalis.specification.6.0.1.nupkg.sha512",
+    "/Users/master/.nuget/packages/ddd.kernelcompartido/1.0.0/ddd.kernelcompartido.1.0.0.nupkg.sha512",
+    "/Users/master/.nuget/packages/jetbrains.annotations/2021.2.0/jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "/Users/master/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/master/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

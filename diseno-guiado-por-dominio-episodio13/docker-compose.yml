@@ -1,0 +1,20 @@
+services:
+  rabbitmqdemo:
+    image: rabbitmq:3-management
+    hostname: "rabbitmqdemo"
+    container_name: "rabbitmqdemo"
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "SDFSDFDFFDFFGBGF"  
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+      RABBITMQ_DEFAULT_HOST: "/"
+    ports:
+      - 5672:5672
+      - 15672:15672
+    labels:
+      NAME: "rabbitmqdemo"
+    networks:
+      - rabbitmq_network  
+networks:
+  rabbitmq_network:
+    driver: bridge

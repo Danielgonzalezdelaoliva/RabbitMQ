@@ -1,0 +1,12 @@
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/bin/Debug/net6.0/Mq.Contratos.deps.json
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/bin/Debug/net6.0/Mq.Contratos.dll
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/bin/Debug/net6.0/Mq.Contratos.pdb
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.csproj.AssemblyReference.cache
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.AssemblyInfoInputs.cache
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.AssemblyInfo.cs
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.csproj.CoreCompileInputs.cache
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.dll
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/refint/Mq.Contratos.dll
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/Mq.Contratos.pdb
+/Users/master/Documents/dev/Gitlab/ArchitectPlay/labs/rabbitmq-con-net-6/Mq.Contratos/Mq.Contratos/obj/Debug/net6.0/ref/Mq.Contratos.dll
